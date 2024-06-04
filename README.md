@@ -24,7 +24,7 @@
   - [GraphQL](https://graphql.org/)
 
 - **Front-end**:
-  - This repository only includes the back-end code. The front-end repository can be found [here]([link-to-frontend-repo](https://github.com/matiasafur/dome-front)).
+  - This repository only includes the back-end code. The front-end repository can be found [here](https://github.com/matiasafur/dome-front).
 
 ## Dependencies
 
